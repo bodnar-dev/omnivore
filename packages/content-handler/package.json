@@ -32,12 +32,12 @@
   "dependencies": {
     "@omnivore/utils": "1.0.0",
     "addressparser": "^1.0.1",
-    "axios": "^0.30.0",
+    "axios": "^0.32.0",
     "linkedom": "^0.14.16",
     "lodash": "^4.17.21",
     "luxon": "^3.0.4",
     "underscore": "^1.13.6",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "volta": {
     "extends": "../../package.json"
